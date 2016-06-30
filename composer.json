@@ -21,7 +21,11 @@
         "./"
     ],
     "license": "BSD-2-Clause",
-    "name": "rahuldroy/xml_serializer",
+    "name": "pear/xml_serializer",
+    "support": {
+        "issues": "http://pear.php.net/bugs/search.php?cmd=display&package_name[]=XML_Serializer",
+        "source": "https://github.com/pear/XML_Serializer"
+    },
     "type": "library",
     "require": {
         "ext-xml": "*",
